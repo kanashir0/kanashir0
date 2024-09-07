@@ -1,4 +1,4 @@
-## Welcome to my Github profile 👋
+# Welcome to Gabriel Kanashiro's Github profile 👋
 
 <div>
   <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=kanashir0&theme=ocean_dark&include_all_commits=true&count_private=true&show_icons=true">
@@ -14,7 +14,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="left"><br>
   <h6>Clouds<br>
   <img align="center" alt="GCP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
@@ -39,7 +39,6 @@
   <h6>General<br>
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Markdown" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">
   <img align="center" alt="Vim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg">
   <img align="center" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div>
